@@ -1,3 +1,5 @@
+sourceTempLocation = "/archPackages"
+
 local aurSources = {
 }
 
